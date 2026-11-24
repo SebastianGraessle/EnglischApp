@@ -114,7 +114,7 @@ const VOKABELN = [
   { buch: "Buch 1", kapitel: "Unit 1", en: "father", de: "der Vater", emoji: "👨‍🦱", gegenteil: "mother", merk: "🔊 father – Vater (beide mit -ter/-ther)" },
   { buch: "Buch 1", kapitel: "Unit 1", en: "mother", de: "die Mutter", emoji: "👩‍🦰", gegenteil: "father", merk: "🔊 mother – Mutter" },
   { buch: "Buch 1", kapitel: "Unit 1", en: "useful", de: "nützlich", emoji: "🛠️", bild: "bilder/buch1-unit1/useful.jpg", merk: "🧩 USE (benutzen) + FUL = gut zu gebrauchen · 🎬 Regenschirm im Regen: useful ✅ – unter Wasser: not useful ❌" },
-  { buch: "Buch 1", kapitel: "Unit 1", en: "phrase", de: "der Satz, der Ausdruck, die Redewendung", emoji: "💭", merk: "🔊 phrase klingt wie „Phrase“ – eine Redewendung" },
+  { buch: "Buch 1", kapitel: "Uni 2", en: "phrase", de: "der Satz, der Ausdruck, die Redewendung", emoji: "💭", merk: "🔊 phrase klingt wie „Phrase“ – eine Redewendung" },
 
   // ---------- Neue Vokabeln hier einfügen, z. B.: ----------
   // { buch: "Buch 1", kapitel: "Unit 2", en: "dog", de: "der Hund", emoji: "🐶" },
